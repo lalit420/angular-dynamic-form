@@ -13,7 +13,7 @@ Make sure you have the following installed:
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/lalit420/angular-dynamic-form.git
-   cd <repository-name>
+   cd angular-dynamic-form
 
 2. **Install Dependencies:**
    - npm install
