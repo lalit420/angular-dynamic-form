@@ -18,5 +18,5 @@ Make sure you have the following installed:
 2. **Install Dependencies:**
    - npm install
 
-3. **Run thek32`3/////1          1     Project:**
+3. **Run the Project:**
    - ng serve
